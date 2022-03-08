@@ -1,0 +1,14 @@
+"%s diceDone";
+"Dice has succesfully done with %s.";
+
+"diceWon";
+"You won all items target put in dice";
+
+"diceLoss";
+"You loss all items you put in dice."
+
+"diceNoWinner";
+"Number is equal. There is no winner in this dice.";
+
+"diceDISABLE";
+"Dice system is not active now.";

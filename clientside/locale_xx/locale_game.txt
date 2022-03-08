@@ -1,0 +1,3 @@
+DICE_SYSTEM_TITLE	Dice Window
+DICE_TITLE	Dice with %s
+TARGET_BUTTON_DICE	Dice
